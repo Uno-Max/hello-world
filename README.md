@@ -1,2 +1,2 @@
 # hello-world
-maximus a web designer
+a maximus web designer ready to maxify everything
